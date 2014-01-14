@@ -1,9 +1,11 @@
 /*
     Colour Palette
+    - Dark Mint: #487671 - rgb(72, 118, 113)
     - Mint: #46a69c - rgb(70, 166, 156)
     - Light Mint: #a3d9d3 - rgb(163, 217, 211)
     - Dark Grey: #594f4f - rgb(89, 79, 79)
-    - 
+    - Light Grey-Orange - #fffaf2 - rgb(255, 250, 242)
+    - Light Grey - #ebebeb - rgb(235, 235, 235)
 */
 
 @charset "UTF-8";
@@ -11,6 +13,7 @@
 
 html {
     font: normal 100%/1.5 'Open Sans', sans-serif; /* 16px/24px */
+    background-color: #fffaf2;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -71,7 +74,7 @@ small, .milli {
 
 h1, h2 ,h3 ,h4, h5, h6,
 .brand {
-    color: red;
+    color: #487671;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -81,32 +84,32 @@ h1, h2 ,h3 ,h4, h5, h6,
 
 .brand-colour,
 .brand-color {
-    color: red;    
+    color: #594f4f;    
 }
 
 ::selection {
-    background-color: orange;
-    color: #fff;
+    background-color: #ebebeb;
+    color: #594f4f;
 }
 
 a,
 a:link {
-    color: #0f0;
+    color: #46a69c;
     text-decoration: none;
-    border-bottom: 0.1em solid rgba(0,255,0,0.5);
+    border-bottom: 0.1em solid rgba(70, 166, 156, 0.5);
     transition: all 200ms linear;
 }
 
 a:visited {
-    color: #696;
-    border-bottom-color: rgba(50,150,50,0.5);
+    color: #a3d9d3;
+    border-bottom-color: rgba(163, 217, 211, 0.5);
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: fuchsia;
-    border-bottom-color: fuchsia;
+    color: #a3d9d3;
+    border-bottom: 0.2em solid #a3d9d3;
 }
 
 ul {
@@ -119,7 +122,12 @@ ul li {
 
 ul li:before {
     content: "•";
-    color: #666;
+    color: #594f4f;
     position: absolute;
     left: -0.75em;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    color: #594f4f;
 }
