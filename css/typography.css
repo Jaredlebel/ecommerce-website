@@ -1,5 +1,125 @@
 /*
-  Colour Palette
-  - Dark green: #060 - rgb(0, 100, 0)
-  - Dark red: #600 - rgb(100, 0, 0)
- */
+    Colour Palette
+    - Mint: #46a69c - rgb(70, 166, 156)
+    - Light Mint: #a3d9d3 - rgb(163, 217, 211)
+    - Dark Grey: #594f4f - rgb(89, 79, 79)
+    - 
+*/
+
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+    font: normal 100%/1.5 'Open Sans', sans-serif; /* 16px/24px */
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, dl,
+blockquote, table, hr {
+    margin: 0 0 1.125rem;
+}
+
+.yotta {
+    font-size: 2.62rem;
+    line-height: 1.3154;
+}
+
+.zetta {
+    font-size: 2.33rem;
+    line-height: 1.4798;
+}
+
+h1, .exa {
+    font-size: 2.074rem;
+    line-height: 1.6648;
+}
+
+h2, .peta {
+    font-size: 1.728rem;
+    line-height: 1.8729;
+}
+
+h3, .tera {
+    font-size: 1.44rem;
+    line-height: 1.0535;
+}
+
+h4, .giga {
+    font-size: 1.2rem;
+    line-height: 1.1852;
+}
+
+h5, .mega {
+    font-size: 1rem;
+    line-height: 1.3333;
+}
+
+h6, .kilo {
+    font-size: 0.833rem;
+    line-height: 1.5000;
+}
+
+small, .milli {
+    font-size: 0.694rem;
+    line-height: 1.6875;
+}
+
+.micro {
+    font-size: 0.579rem;
+    line-height: 1.8984;
+}
+
+h1, h2 ,h3 ,h4, h5, h6,
+.brand {
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.brand-family {
+ font-family: 'Open Sans', sans-serif;   
+}
+
+.brand-colour,
+.brand-color {
+    color: red;    
+}
+
+::selection {
+    background-color: orange;
+    color: #fff;
+}
+
+a,
+a:link {
+    color: #0f0;
+    text-decoration: none;
+    border-bottom: 0.1em solid rgba(0,255,0,0.5);
+    transition: all 200ms linear;
+}
+
+a:visited {
+    color: #696;
+    border-bottom-color: rgba(50,150,50,0.5);
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: fuchsia;
+    border-bottom-color: fuchsia;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    position: relative;
+}
+
+ul li:before {
+    content: "•";
+    color: #666;
+    position: absolute;
+    left: -0.75em;
+}
