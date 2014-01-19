@@ -4,7 +4,7 @@
     - Mint: #46a69c - rgb(70, 166, 156)
     - Light Mint: #a3d9d3 - rgb(163, 217, 211)
     - Dark Grey: #594f4f - rgb(89, 79, 79)
-    - Light Grey-Orange - #fffaf2 - rgb(255, 250, 242)
+    - Light Grey-Blue - #fffaf2 - rgb(255, 250, 242)
     - Light Grey - #ebebeb - rgb(235, 235, 235)
 */
 
@@ -12,14 +12,16 @@
 /* CSS Document */
 
 html {
-    font: normal 100%/1.5 'Open Sans', sans-serif; /* 16px/24px */
+    font: normal 100%/1.5 'lato', sans-serif; /* 16px/23.2px */
     background-color: #fffaf2;
+    line-height: 1.45rem;
 }
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
     margin: 0 0 1.125rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .yotta {
@@ -67,7 +69,7 @@ small, .milli {
     line-height: 1.6875;
 }
 
-.micro {
+.micro, sub, sup {
     font-size: 0.579rem;
     line-height: 1.8984;
 }
@@ -112,22 +114,120 @@ a:active {
     border-bottom: 0.2em solid #a3d9d3;
 }
 
+p {
+    font-family: 'Lato', sans-serif;
+    color: #594f4f;
+}
+
 ul {
+    font-family: 'Lato', sans-serif;
     list-style-type: none;
 }
 
 ul li {
     position: relative;
+    color: #594f4f;
 }
 
 ul li:before {
     content: "•";
     color: #594f4f;
     position: absolute;
-    left: -0.75em;
+    left: -1.2em;
 }
 
-p {
+ol {
     font-family: 'Lato', sans-serif;
+}
+
+ol li {
+    position: relative;
     color: #594f4f;
+}
+
+dl {
+    font-family: 'Lato', sans-serif;
+}
+
+dl dt {
+    position: relative;
+    left: 1rem;
+    color: #594f4f;
+    font-weight: 600;
+}
+
+dl dd {
+    color: #594f4f;
+}
+
+hr {
+    clear: both;
+    display: block;
+    color: #594f4f;
+    border: solid 1px;
+}
+
+blockquote {
+    position: relative;
+}
+
+blockquote:before {
+    font-family: "Open Sans", sans-serif;
+    position: absolute;
+    content: "“";
+    font-size: 6rem;
+    color: #a3d9d3;
+    margin-left: -0.5em;
+    margin-top: 0.2em;
+}
+
+blockquote:after {
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+    content: "”";
+    font-size: 6rem;
+    color: #a3d9d3;
+    float: right;
+    margin-top: -0.2em;
+    margin-right: -1em;
+}
+
+cite {
+    position: relative;
+    float: right;
+    margin-bottom: 1.45rem;
+}
+
+mark {
+    background-color: #a3d9d3;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead, thead th:first-child {
+    border-bottom: solid 1px rgb(163, 217, 211);
+}
+
+tbody th, thead th:first-child {
+    border-right: solid 1px rgb(163, 217, 211);
+    padding-right: 0.5rem;
+    
+}
+
+tr {
+    color: #487671;
+    text-align: left;
+}
+
+th {
+    background-color: rgba(163, 217, 211, 0.3);
+    color: #487671;
+    text-align: left;
+}
+
+td {
+    color: #594f4f;
+    padding: 0.2rem 2rem 0.2rem;
 }
