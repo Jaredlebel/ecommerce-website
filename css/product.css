@@ -1,0 +1,15 @@
+/*
+    Colour Palette
+    - Dark Mint: #487671 - rgb(72, 118, 113)
+    - Mint: #46a69c - rgb(70, 166, 156)
+    - Light Mint: #a3d9d3 - rgb(163, 217, 211)
+    - Dark Grey: #594f4f - rgb(89, 79, 79)
+    - Light Grey-Orange - #fffaf2 - rgb(255, 250, 242)
+    - Light Grey - #ebebeb - rgb(235, 235, 235)
+*/
+
+.product {
+    background-color: #fffaf2;
+    padding: 1em;
+    border-radius: 6px;
+}

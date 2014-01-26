@@ -76,7 +76,7 @@ small, .milli {
 
 h1, h2 ,h3 ,h4, h5, h6,
 .brand {
-    color: #487671;
+    color: #46a69c;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -163,7 +163,8 @@ dl dd {
 hr {
     clear: both;
     display: block;
-    color: #594f4f;
+    border: none;
+    color: rgba(89, 79, 79, 0.5);
     border: solid 1px;
 }
 
