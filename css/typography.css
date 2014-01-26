@@ -3,9 +3,9 @@
     - Dark Mint: #487671 - rgb(72, 118, 113)
     - Mint: #46a69c - rgb(70, 166, 156)
     - Light Mint: #a3d9d3 - rgb(163, 217, 211)
-    - Dark Grey: #594f4f - rgb(89, 79, 79)
-    - Light Grey-Blue - #fffaf2 - rgb(255, 250, 242)
-    - Light Grey - #ebebeb - rgb(235, 235, 235)
+    - Dark Grey: #303030 rgb(48, 48, 48) 
+    - Light Greyblue - #f2feff - rgb(255, 250, 242)
+    – White – #fff – rgb(255, 255, 255)
 */
 
 @charset "UTF-8";
@@ -13,7 +13,7 @@
 
 html {
     font: normal 100%/1.5 'lato', sans-serif; /* 16px/23.2px */
-    background-color: #fffaf2;
+    background-color: #fff;
     line-height: 1.45rem;
 }
 
@@ -76,7 +76,7 @@ small, .milli {
 
 h1, h2 ,h3 ,h4, h5, h6,
 .brand {
-    color: #46a69c;
+    color: #303030;
     font-family: 'Open Sans', sans-serif;
 }
 
