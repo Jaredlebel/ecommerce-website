@@ -9,16 +9,23 @@
 */
 
 footer {
+    position: fixed;
+    width: 100%;
     bottom: 0;
     background-color: #303030;
     padding: 1rem;
 }
 
 footer ul {
-    text-align: center;
+    text-align: right;
 }
 
 footer li {
     display: inline-block;
     margin: 1rem;
+}
+
+footer p {
+    color: #fff;
+    text-align: left;
 }

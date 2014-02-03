@@ -8,8 +8,8 @@
     – White – #fff – rgb(255, 255, 255)
 */
 
-nav {
-    background-color: #303030;
+header {
+    background-color: #a3d9d3;
     padding: 0.5rem;
     position: relative;
 }
@@ -25,4 +25,8 @@ nav ul li {
 
 nav a {
     list-style: none;
+}
+
+header img {
+    width: 12rem;
 }
