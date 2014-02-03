@@ -17,13 +17,7 @@ html {
 	text-size-adjust: 100%;
 }
 
-.ir {
-	overflow: hidden;
-	text-indent: 100%;
-	white-space: nowrap;
-}
-
-.img-flex {
+.flex-img {
 	display: block;
 	width: 100%;
 }
