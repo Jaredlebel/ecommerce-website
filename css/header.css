@@ -1,0 +1,27 @@
+/*
+    Colour Palette
+    - Dark Mint: #487671 - rgb(72, 118, 113)
+    - Mint: #46a69c - rgb(70, 166, 156)
+    - Light Mint: #a3d9d3 - rgb(163, 217, 211)
+    - Dark Grey: #303030 rgb(48, 48, 48) 
+    - Light Greyblue - #f2feff - rgb(255, 250, 242)
+    – White – #fff – rgb(255, 255, 255)
+*/
+
+nav {
+    background-color: #303030;
+    padding: 0.5rem;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 1rem;
+    list-style: none;
+    float: right;
+}
+
+nav a {
+    list-style: none;
+}
+
