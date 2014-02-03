@@ -14,22 +14,33 @@ footer {
     bottom: 0;
     background-color: #303030;
     padding: 1rem;
+    text-align: center;
 }
 
-footer ul {
-    text-align: right;
-}
-
-footer li {
-    display: inline-block;
-    margin: 1rem;
+.social {
+    text-align: center;
 }
 
 footer p {
+    height: 1.5rem;
+    width:8rem;
+    text-align:center;
     color: #fff;
-    text-align: right;
 }
 
-footer img {
-    width: 5%;
+.social li {
+    height: 1.5rem;
+    width:2rem;
+    overflow:hidden;
+    text-align:center;
+    margin: 1rem;
+}
+
+.social img {
+    height: 1.5rem;
+}
+
+.social a{
+    text-decoration:none;
+    border-bottom: 0;
 }
