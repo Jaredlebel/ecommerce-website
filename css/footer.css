@@ -13,21 +13,11 @@ footer {
     width: 100%;
     bottom: 0;
     background-color: #303030;
-    padding: 1rem;
     text-align: center;
-}
-
-footer nav ul li {
-    display: inline-block;
 }
 
 nav ul li:before {
     content: "";
-}
-
-
-footer p {
-    color: #fff;
 }
 
 .social {
@@ -41,12 +31,8 @@ footer p {
     overflow: hidden;
 }
 
-.social li:before {
-    content: "";
-}
-
 .social img {
-    height: 1.75rem;
+    height: 2rem;
 }
 
 .social a{
