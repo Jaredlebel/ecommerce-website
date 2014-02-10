@@ -10,23 +10,36 @@
 
 header {
     background-color: #a3d9d3;
-    padding: 0.5rem;
-    position: relative;
+    position: absolute;
+    width: 100%;
 }
 
 nav ul li {
-    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
     list-style: none;
-    margin: 1rem;
-    list-style: none;
+    margin: 2rem;
     float: right;
-    color: #fff;
 }
 
 nav a {
+    color: #303030;
+}
+
+nav a,
+nav a:link,
+nav a:visited{
     list-style: none;
+    border: 0;
 }
 
 header img {
+    position: relative;
     width: 12rem;
+    top: 1.7rem;
 }
+
+nav form {
+    margin: 1rem;
+}
+
+

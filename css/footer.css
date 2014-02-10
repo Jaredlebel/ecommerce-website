@@ -9,7 +9,7 @@
 */
 
 footer {
-    position: fixed;
+    position: absolute;
     width: 100%;
     bottom: 0;
     background-color: #303030;
@@ -17,27 +17,36 @@ footer {
     text-align: center;
 }
 
+footer nav ul li {
+    display: inline-block;
+}
+
+nav ul li:before {
+    content: "";
+}
+
+
+footer p {
+    color: #fff;
+}
+
 .social {
     text-align: center;
 }
 
-footer p {
-    height: 1.5rem;
-    width:8rem;
-    text-align:center;
-    color: #fff;
+.social li {
+    margin: 1rem;
+    width: 2rem;
+    height: 2rem;
+    overflow: hidden;
 }
 
-.social li {
-    height: 1.5rem;
-    width:2rem;
-    overflow:hidden;
-    text-align:center;
-    margin: 1rem;
+.social li:before {
+    content: "";
 }
 
 .social img {
-    height: 1.5rem;
+    height: 1.75rem;
 }
 
 .social a{
