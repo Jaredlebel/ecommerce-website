@@ -17,7 +17,7 @@ html {
     line-height: 1.45rem;
 }
 
-.banner img {
+.banner {
     background-image: url(../images/teafield.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
