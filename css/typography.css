@@ -20,7 +20,7 @@ html {
 .banner {
     background: url(../images/blacktea.jpg);
     background-size: cover;
-    padding: 18rem 6rem;
+    padding: 20rem 8rem;
 }
 
 .banner h1, .banner p {
@@ -246,5 +246,5 @@ td {
 
 .thanks {
     text-align: center;
-    padding: 15rem;
+    padding-top: 16rem;
 }
