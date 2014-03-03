@@ -18,11 +18,13 @@ html {
 }
 
 .banner {
-    background-image: url(../images/teafield.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url(../images/blacktea.jpg);
     background-size: cover;
+    padding: 18rem 6rem;
+}
+
+.banner h1, .banner p {
+    color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -111,14 +113,14 @@ a:link {
 }
 
 a:visited {
-    color: #a3d9d3;
+    color: #303030;
     border-bottom-color: rgba(163, 217, 211, 0.5);
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: #a3d9d3;
+    color: #303030;
     border-bottom: 0.2em solid #a3d9d3;
 }
 
@@ -240,4 +242,9 @@ th {
 td {
     color: #594f4f;
     padding: 0.2rem 2rem 0.2rem;
+}
+
+.thanks {
+    text-align: center;
+    padding: 15rem;
 }
