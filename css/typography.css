@@ -17,6 +17,10 @@ html {
     line-height: 1.45rem;
 }
 
+.banner {
+    background-image: url(...images/blacktea.jpg)
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
