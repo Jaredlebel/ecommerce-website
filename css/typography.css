@@ -18,9 +18,9 @@ html {
 }
 
 .banner {
-    background: url(../images/blacktea.jpg);
-    background-size: cover;
-    padding: 20rem 8rem;
+    background: url(../images/blacktea.jpg) no-repeat;
+    background-size: contain;
+    padding: 25rem 8rem;
 }
 
 .banner h1, .banner p {
