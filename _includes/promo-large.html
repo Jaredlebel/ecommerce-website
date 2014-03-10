@@ -1,12 +1,12 @@
-<div class="media buckets-large">
-    <div class="media-img media-img-stacked">
-        <h2 class="exa">{{include.prodtitle}}</h2>
-        <img src="http://placekitten.com/g/600/300" alt="">
+<div class="media buckets-large grid push">
+    <div class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
+        <img src="{{site.baseurl}}/{{include.image}}" alt="Tea cup icon" class="flex-img">
     </div>
     
-    <div class="media-body giga">
+    <div class="giga unit-s-1 unit-m-2-3 unit-l-2-3 gutter">
+        <h2 class="exa push">{{include.prodtitle}}</h2>
         <p>{{include.desc}}</p>
+        <p>{{include.price}}</p>
+        <a class="btn giga" href="#">Buy Now!</a>
     </div> 
-    <p>$9.99</p>
-    <a class="btn giga" href="#">Buy Now!</a>
 </div>

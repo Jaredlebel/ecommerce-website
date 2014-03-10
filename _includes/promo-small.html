@@ -1,12 +1,13 @@
 <div class="media buckets-small">
     <div class="media-img media-img-stacked">
-        <h2 class="kilo">{{include.prodtitle}}</h2>
-        <img src="http://placekitten.com/g/110/110" alt="">
+       <img src="{{site.baseurl}}/{{include.image}}" alt="Tea cup icon" class="flex-img push">
     </div>
     
     <div class="media-body milli">
+        <h2 class="kilo">{{include.prodtitle}}</h2>
         <p>{{include.desc}}</p>
+        <p>{{include.price}}</p>
+        <a class="btn milli" href="#">Buy Now!</a>
     </div> 
-    <p>{{include.price}}</p>
-    <a class="btn milli" href="#">Buy Now!</a>
+    
 </div>
