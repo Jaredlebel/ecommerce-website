@@ -35,6 +35,10 @@ header img {
     width: 12rem;
 }
 
+.current {
+    background-color: rgb(72, 118, 113);
+}
+
 .banner {
     background: #a3d9d3 url("../images/blacktea.jpg") no-repeat center center;
     background-size: cover;
