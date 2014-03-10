@@ -35,4 +35,13 @@ header img {
     width: 12rem;
 }
 
+.banner {
+    background: #a3d9d3 url("../images/blacktea.jpg") no-repeat center center;
+    background-size: cover;
+    text-align: left;
+    padding: 5rem 1rem 1rem;
+}
 
+.banner h2 {
+    color: #fff;
+}
