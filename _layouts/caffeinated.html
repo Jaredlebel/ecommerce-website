@@ -1,15 +1,22 @@
 ---
 layout: default
+title: Caffeinated Teas
 ---
 
 <h1>{{page.name}}</h1>
 
-{{content}}
-
-<dl>
-    <dt>Brew Time</dt>
-    <dd>{{page.brew_time}}</dd>
-    <dt>Leaf</dt>
-    <dd>{{page.leaf}}</dd>
-</dl>
+<div class="grid">
+    <div class="unit unit-s-1 unit-m-1-2 unit-l-1">
+        <div class="unit unit-s-1 unit-m-2-3 unit-l-1">
+            {{content}}
+        </div>
+    </div>
+     <dl class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+        <dt>Brew Time</dt>
+        <dd>{{page.brew_time}}</dd>
+        <dt>Leaf</dt>
+        <dd>{{page.leaf}}</dd>
+    </dl>
+</div>
+     
 
