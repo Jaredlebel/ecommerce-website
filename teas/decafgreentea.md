@@ -1,26 +1,25 @@
 ---
 layout: teas
-category: caffeinated
-name: White Tea
+category: decaffeinated
+name: Decaffeinated Green Tea
 brew_time: 5 Minutes
-image: teas/greentea.svg
+image: teas/decafgreentea.svg
 leaf: Camellia Sinensis
 ---
 
-![White Tea Icon]({{site.baseurl}}/images/whitetea.svg)
+![Green Tea Icon]({{site.baseurl}}/images/greentea.svg)
 
-*Black Tea* is a type of tea that is more oxidized than oolong, green and white teas. All four types are made from leaves of the shrub (or small tree) Camellia sinensis. Black tea is generally stronger in flavor than the less oxidized teas.
+*Green Tea* is a great way to wake up in the morning as well as fill up with **antioxidants**.
 
-White Tea comes from the buds of the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf.
+Green Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf.
 
 ## Benefits
 
-- White Tea Antioxidants
-- Cancer Prevention
-- Lower Blood Pressure
-- Lower Cholesterol
-- Heart Protection
-- Stronger Bones
-- Antibacterial & Antiviral
-- Healthy Teeth and Gums
-- Healthy Skin
+- Weight Loss
+- Regulate Diabetes 
+- Reduces Cholesterol
+- Help with Depression
+- Prevents alzheimer's and Parkinson's
+- Reduces tooth decay
+- Helps reduce depression
+- Great antibody

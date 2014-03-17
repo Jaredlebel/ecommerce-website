@@ -1,21 +1,22 @@
 ---
 layout: teas
-category: caffeinated
-name: Indian Green Tea
+category: decaffeinated
+name: Decafeinated Chai Tea
 brew_time: 5 Minutes
-image: teas/indiangreentea.svg
-leaf: Camellia Sinensis
+image: teas/chaitea.svg
+leaf: Camellia Sinensis/Indian spices
 ---
 
-![Green Tea Icon]({{site.baseurl}}/images/indiangreentea.svg)
+![Chai Tea Icon]({{site.baseurl}}/images/chaitea.svg)
 
-*Indian Green Tea* is a great way to wake up in the morning as well as fill up with **antioxidants**.
+*Masala Chai*, literally "mixed-spice tea" is a flavoured tea beverage made by brewing black tea with a mixture of aromatic Indian spices and herbs. Our decaffeinated version is a great way to the taste without the kick!
 
-Green Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf.
+Chai Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf combined with Indian spices.
 
 ## Benefits
 
-- Weight Loss
-- Regulate Diabetes 
-- Reduces Cholesterol
-- Help with Depression
+- Reduces cancer risks
+- Prevents the common cold
+- Boosts metabolism
+- Prevents diabetes
+- Higher energy levels

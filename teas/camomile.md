@@ -16,5 +16,5 @@ leaf: Asteraceae
 - Helps with sleeplessness
 - Reduce anxiety
 - Fight common colds and other viruses
-- Filled with antioxidents
+- Filled with antioxidants
 - Can sooth skin iritation

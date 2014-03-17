@@ -1,21 +1,22 @@
 ---
 layout: teas
-category: caffeinated
-name: Green Tea
+category: decaffeinated
+name: Decaffeinated Earl Grey
 brew_time: 5 Minutes
-image: teas/greentea.svg
-leaf: Camellia Sinensis
+image: teas/decafearlgrey.svg
+leaf: Blend
 ---
 
-![Green Tea Icon]({{site.baseurl}}/images/greentea.svg)
+![Earl Grey Tea Icon]({{site.baseurl}}/images/decafearlgrey.svg)
 
-*Green Tea* is a great way to wake up in the morning as well as fill up with **antioxidants**.
+*Earl Grey*  tea is a tea blend with a distinctive smoky flavour and aroma derived from adding the oil extracted from the rind of the bergamot orange. The term "Earl Grey" has traditionally applied only to black teas that contain oil of bergamot as a flavouring.
 
-Green Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf.
+GreenEarl Greay Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf combined with the oil extract of the rind of the bergamot orange.
 
 ## Benefits
 
-- Weight Loss
-- Regulate Diabetes 
-- Reduces Cholesterol
-- Help with Depression
+- Helps with depression
+- Antioxidant
+- Promotes weight loss
+- Prevents dibetes
+- Digestive aid with other intestinal benefits

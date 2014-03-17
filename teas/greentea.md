@@ -19,3 +19,7 @@ Green Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Came
 - Regulate Diabetes 
 - Reduces Cholesterol
 - Help with Depression
+- Prevents alzheimer's and Parkinson's
+- Reduces tooth decay
+- Helps reduce depression
+- Great antibody

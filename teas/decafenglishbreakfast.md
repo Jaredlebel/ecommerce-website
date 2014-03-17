@@ -1,26 +1,19 @@
 ---
 layout: teas
-category: caffeinated
-name: Oolong Tea
+category: decaffeinated
+name: Decaffeinated English Breakfast
 brew_time: 5 Minutes
-image: teas/oolongtea.svg
-leaf: Camellia Sinensis
+image: teas/englishbreakfast.svg
+leaf: Blend
 ---
 
-![oolong Tea Icon]({{site.baseurl}}/images/oolong.svg)
+![English Breakfast Tea Icon]({{site.baseurl}}/images/englishbreakfast.svg)
 
-*Oolong Teas* fall between un-oxidised green teas and fully 
-oxidised black teas. Produced from larger more mature leaves, 
-during processing the leaves are shaken and then left several 
-times to “bruise” the edges of the leaves.
-
-Oolong Tea comes from the [*Camellia_sinensis*](http://en.wikipedia.org/wiki/Camellia_sinensis) leaf.
+*English breakfast tea* is a traditional blend of teas originating from Assam, Ceylon and Kenya. It is the most common form of tea in British tea culture. English breakfast tea is a black tea blend blended to go well with milk and sugar, in a style traditionally associated with a hearty English breakfast.
 
 ## Benefits
 
-- combating the aging of skin
-- preventing heart disease and cancer
-- reducing high blood pressure
-- prolonging and improving vitality and life span
-- strengthening teeth and prevent tooth decay
-- relieving physical and mental stress
+- Great for dental health
+- Antioxidant
+- Keeps bones strong
+- Prevents cancer
