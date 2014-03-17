@@ -3,7 +3,7 @@ layout: teas
 category: decaffeinated
 name: Decaffeinated English Breakfast
 brew_time: 5 Minutes
-image: englishbreakfast.svg
+image: decafenglishbreakfast.svg
 leaf: Blend
 ---
 
