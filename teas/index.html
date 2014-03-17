@@ -7,11 +7,11 @@ meta: "Organic fair trade teas"
 
 <div class="grid">
     <p class="unit unit-s-1 unit-m-1 unit-l-1">
-        Browse our teas selection to find the best one for you. We have a range of caffeinated and uncaffeinated teas to pick form!
+        Browse our teas selection to find the best one for you. We have a range of caffeinated and uncaffeinated teas to pick from!
     </p>
     <ul>
         {% for teas in site.pages %}    
-        {% if teas.category == 'caffeinated' %}
+        {% if teas.category == 'category' %}
         <li>
             <a href="{{site.baseurl}}{{teas.url}}">
                 {{tea.type}}

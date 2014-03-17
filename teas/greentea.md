@@ -1,6 +1,6 @@
 ---
-layout: caffeinated
-category: Caffeinated
+layout: teas
+category: caffeinated
 name: Green Tea
 brew_time: 5 Minutes
 image: teas/greentea.svg
