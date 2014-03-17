@@ -30,6 +30,8 @@ blockquote, table, hr {
 
 .banner-text {
     font-size: 3.5rem;
+    line-height: 1;
+    text-shadow: 2px 1px 2px rgba(48, 48, 48, 0.6);
 }   
 
 .yotta {
