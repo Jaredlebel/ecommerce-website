@@ -158,8 +158,8 @@ h1, h2 ,h3 ,h4, h5, h6,
 }
 
 ::selection {
-    background-color: #ebebeb;
-    color: #ebebeb;
+    background-color: #487671;
+    color: #487671;
 }
 
 a,
@@ -171,7 +171,7 @@ a:link {
 }
 
 a:visited {
-    color: #ebebeb;
+    color: #487671;
     border-bottom-color: rgba(163, 217, 211, 0.5);
 }
 
