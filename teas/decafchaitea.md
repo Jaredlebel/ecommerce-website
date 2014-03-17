@@ -3,11 +3,9 @@ layout: teas
 category: decaffeinated
 name: Decafeinated Chai Tea
 brew_time: 5 Minutes
-image: teas/chaitea.svg
+image: decafchai.svg
 leaf: Camellia Sinensis/Indian spices
 ---
-
-![Chai Tea Icon]({{site.baseurl}}/images/chaitea.svg)
 
 *Masala Chai*, literally "mixed-spice tea" is a flavoured tea beverage made by brewing black tea with a mixture of aromatic Indian spices and herbs. Our decaffeinated version is a great way to the taste without the kick!
 

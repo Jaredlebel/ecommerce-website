@@ -3,11 +3,9 @@ layout: teas
 category: caffeinated
 name: White Tea
 brew_time: 5 Minutes
-image: teas/whitetea.svg
+image: whitetea.svg
 leaf: Camellia Sinensis
 ---
-
-![White Tea Icon]({{site.baseurl}}/images/whitetea.svg)
 
 *White Tea* is one of the rarest teas and only comes from fresh buds and unopened tea leaves. Picked from the freshest early spring buds, it is the least processed of all teas. 
 

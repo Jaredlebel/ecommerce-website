@@ -3,11 +3,9 @@ layout: teas
 category: caffeinated
 name: Oolong Tea
 brew_time: 5 Minutes
-image: teas/oolong.svg
+image: oolong.svg
 leaf: Camellia Sinensis
 ---
-
-![Oolong Tea Icon]({{site.baseurl}}/images/oolong.svg)
 
 *Oolong Teas* fall between un-oxidised green teas and fully 
 oxidised black teas. Produced from larger more mature leaves, 

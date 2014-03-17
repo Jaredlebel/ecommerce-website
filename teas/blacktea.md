@@ -3,11 +3,9 @@ layout: teas
 category: caffeinated
 name: Black Tea
 brew_time: 5 Minutes
-image: teas/blacktea.svg
+image: blacktea.svg
 leaf: Camellia Sinensis
 ---
-
-![Black Tea Icon]({{site.baseurl}}/images/blacktea.svg)
 
 *Black Tea* is a type of tea that is more oxidized than oolong, green and white teas. All four types are made from leaves of the shrub (or small tree) Camellia sinensis. Black tea is generally stronger in flavor than the less oxidized teas.
 

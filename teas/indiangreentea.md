@@ -3,11 +3,9 @@ layout: teas
 category: caffeinated
 name: Indian Green Tea
 brew_time: 5 Minutes
-image: teas/indiangreentea.svg
+image: indiangreentea.svg
 leaf: Camellia Sinensis
 ---
-
-![Green Tea Icon]({{site.baseurl}}/images/indiangreentea.svg)
 
 *Indian Green Tea* is a great way to wake up in the morning as well as fill up with **antioxidants**.
 

@@ -7,15 +7,20 @@ layout: default
 <h1>{{page.name}}</h1>
 
 <div class="grid">
-    <div class="unit unit-s-1 unit-m-1-2 unit-l-1">
-        {{content}}
-    </div>
-     <dl class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+    <img class="gutter unit unit-s-2-3 unit-m-2-3 unit-l-1-3" src="{{site.baseurl}}/images/{{page.image}}">
+    <dl class="gutter unit unit-s-1 unit-m-1-2 unit-l-1-2">
         <dt>Brew Time</dt>
         <dd>{{page.brew_time}}</dd>
         <dt>Leaf</dt>
         <dd>{{page.leaf}}</dd>
     </dl>
+</div>
+
+<div class="grid">
+    
+    <div class="gutter unit unit-s-1 unit-m-1 unit-l-2-3">
+        {{content}}
+    </div>
 </div>
      
 

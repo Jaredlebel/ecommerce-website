@@ -3,11 +3,9 @@ layout: teas
 category: decaffeinated
 name: Decaffeinated Earl Grey
 brew_time: 5 Minutes
-image: teas/decafearlgrey.svg
+image: earlgrey.svg
 leaf: Blend
 ---
-
-![Earl Grey Tea Icon]({{site.baseurl}}/images/decafearlgrey.svg)
 
 *Earl Grey*  tea is a tea blend with a distinctive smoky flavour and aroma derived from adding the oil extracted from the rind of the bergamot orange. The term "Earl Grey" has traditionally applied only to black teas that contain oil of bergamot as a flavouring.
 
