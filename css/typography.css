@@ -17,6 +17,10 @@ html {
     line-height: 1.45rem;
 }
 
+body {
+    margin: 0;
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl,
 blockquote, table, hr {
@@ -171,7 +175,7 @@ a:link {
 }
 
 a:visited {
-    color: #487671;
+    color: #46a69c;
     border-bottom-color: rgba(163, 217, 211, 0.5);
 }
 

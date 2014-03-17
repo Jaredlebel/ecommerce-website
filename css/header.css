@@ -12,6 +12,8 @@ header {
     background-color: #a3d9d3;
     position: relative;
     width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 0.2rem;
 }
 
 nav ul li {
