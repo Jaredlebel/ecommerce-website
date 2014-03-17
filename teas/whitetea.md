@@ -3,7 +3,7 @@ layout: teas
 category: caffeinated
 name: White Tea
 brew_time: 5 Minutes
-image: teas/greentea.svg
+image: teas/whitetea.svg
 leaf: Camellia Sinensis
 ---
 
