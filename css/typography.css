@@ -124,6 +124,10 @@ small, .milli {
   padding-bottom: 0.7500rem;
 }
 
+.margin-gutter {
+    margin-left: 1.4rem;
+}
+
 .island {
   margin-bottom: 1.5rem;
   padding: 1.5rem;
@@ -315,6 +319,7 @@ td {
 .thanks {
     text-align: center;
     padding-top: 14rem;
+    padding-bottom: 15rem;
 }
 
 .gutter {
