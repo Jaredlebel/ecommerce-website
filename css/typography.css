@@ -168,13 +168,13 @@ h1, h2 ,h3 ,h4, h5, h6,
 }
 
 ::selection {
-    background-color: #487671;
+    background-color: #46a69c;
     color: #487671;
 }
 
 a,
 a:link {
-    color: #46a69c;
+    color: #fff;
     text-decoration: none;
     border-bottom: 0.1em solid rgba(70, 166, 156, 0.5);
     transition: all 200ms linear;
@@ -322,3 +322,10 @@ td {
     padding-right: 1.5rem;
 }
 
+.cart img {
+    height: 60px;
+}
+
+.no-underline {
+    border-bottom: none;
+}

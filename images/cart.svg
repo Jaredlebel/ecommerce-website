@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
-You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
-
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path id="shopping-cart-4-icon" d="M346.914,143.609H50.168l53.562,121.166h205.086L346.914,143.609z M111.506,183.609h182.875
-	l-13.355,41.667H129.953L111.506,183.609z M461.832,105.109l-12.746,40h-29.98l-59.178,188.166h-227.07l-17.627-40H330.68
-	l59.18-188.166H461.832z M316.816,380c0,14.852-12.039,26.891-26.891,26.891S263.035,394.852,263.035,380
-	s12.039-26.891,26.891-26.891S316.816,365.148,316.816,380z M227.932,380c0,14.852-12.039,26.891-26.891,26.891
-	S174.15,394.852,174.15,380s12.039-26.891,26.891-26.891S227.932,365.148,227.932,380z"/>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.3" enable-background="new 0 0 841.9 595.3" xml:space="preserve">
+<path id="shopping-cart-4-icon" fill="#FFFFFF" d="M585.5,75.9H0l105.6,239.2H510L585.5,75.9z M121,154.7h360.6l-26.4,82h-298
+	L121,154.7z M812.1,0l-25.2,78.8h-59.3L610.7,449.9H163.2l-34.9-78.8h425.1L670.4,0H812.1L812.1,0z M525.8,542.1
+	c0,29.2-23.6,53.2-53.2,53.2c-29.2,0-53.2-23.6-53.2-53.2c0-29.2,23.6-53.2,53.2-53.2C502.3,489.3,525.8,512.9,525.8,542.1z
+	 M350.8,542.1c0,29.2-23.6,53.2-53.2,53.2c-29.6,0-53.2-23.6-53.2-53.2c0-29.2,23.6-53.2,53.2-53.2
+	C327.3,488.9,350.8,512.9,350.8,542.1z"/>
 </svg>
