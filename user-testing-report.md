@@ -1,44 +1,41 @@
 # User Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by {Jared Lebel} on {Monday, March 24, 2014} between the times of {4:15pm} and {$:40pm} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
+- {Mark Collantes}
+- {Chelsey Frohlick}
+- {Hasan Yavuz}
 
 ## Tasks
 
-1. {First task description here}
-2. {Second task description here}
-3. {Third task description here}
+1. {Locate Green Tea in the site}
+2. {Locate product details Green Tea of choice}
+3. {Add to basket and check out}
 
 ---
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### {Mark Collantes}
 
-- {She clicked on the link as expected…}
-- {She had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {Went to "Teas" nav item as expected.}
+- {Clicked on the caffeinated category.}
+- {Found Green Tea and went to product details page as expected.}
+- {Clicked on the button to add to cart as expected but the link was broken and nothing happened.}
 
-### {John Doe}
+### {Chelsey Frohlick}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {First thing she clicked on was the "buy now" button withint my promo on home page. This does not lead to product details but simply adds to cart. Need to figure out way around this.}
+- {Once passed that hurdle, she clicked on teas as expected.}
+- {She then clicked on caffeinated category as expected and selected green tea.}
+- {Clicked on the button to add to cart as expected but the link was broken and nothing happened.}
 
 ### {Jordan Doe}
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {Went to "Teas" nav item as expected.}
+- {Clicked on the caffeinated category.}
+- {Found Green Tea and went to product details page as expected.}
+- {Clicked on the button to add to cart as expected but the link was broken and nothing happened.}
 
 ---
 
@@ -46,15 +43,12 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {Product details buttons were not linked to cart. When you click them to add to cart nothing happens.}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {One user automatically clicked the buy now button on my large promo. Maybe have the product details within the chain of events before checking out to add some ease of use.}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Images in promos could also link to product details to add another option to click on to access details.}
