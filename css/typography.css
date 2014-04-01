@@ -185,7 +185,7 @@ a:link {
 }
 
 a:visited {
-    color: #46a69c;
+    color: #a3d9d3;
     border-bottom-color: rgba(163, 217, 211, 0.5);
 }
 
@@ -194,6 +194,17 @@ a:focus,
 a:active {
     color: #303030;
     border-bottom: 0.2em solid #a3d9d3;
+}
+
+a:hover,
+a:active {
+    /* it is ok to move the focus rectangle from the mouse-based actions*/
+    outline: none;
+}
+
+a:focus {
+   /* Focus MUST ALWAYS have a focus rectangle */
+    outline: 3px solid #000;
 }
 
 p {
