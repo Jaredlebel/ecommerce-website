@@ -21,12 +21,8 @@ footer {
     color: #fff;
 }
 
-nav ul li:before {
-    content: "";
-}
-
 .social {
-    text-align: center;
+    text-align: left;
 }
 
 .social li {
