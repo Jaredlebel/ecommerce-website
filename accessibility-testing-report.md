@@ -55,15 +55,14 @@ User testing was conducted by {Jared Lebel} on {Mar.31, 2014} between the times 
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {Make visited state more visible.}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {Make visited state more visible.}
+
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Make visited state more visible.}
+- {make the images show selector rectangle.}
