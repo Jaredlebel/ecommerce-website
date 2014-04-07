@@ -321,6 +321,15 @@ td {
     padding: 0.2rem 2rem 0.2rem;
 }
 
+.about {
+    text-align: center;
+    padding: 4rem 9rem 4rem 9rem;
+    background-color: #46a69c;
+}
+
+.about p {
+    color: #fff;
+}
 .thanks {
     text-align: center;
     padding-top: 14rem;
