@@ -2,12 +2,12 @@
 
 User testing was conducted by {Jared Lebel} on {Mar.31, 2014} between the times of {5:00pm} and {end time} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
-- {Theresa Doe}
-- {Todd Doe}
-- {Taylor Doe}
+- {Daniela Chavez}
+- {Evan Grice}
+- {Hasan Yavuz}
+- {Mark Collantes}
+- {Alex Martin}
+- {Stephen Pollock}
 
 ## Tasks
 
