@@ -1,14 +1,14 @@
 ---
 layout: default
 category: category
-showbanner: yes
+showbannersmall: yes
 bannertext: Decaffeinated
 meta: "Organically grown fairtrade uncaffeinated teas"
 title: Uncaffeinated Teas
 type: uncaffeinated
 ---
 
-<a href="{{site.baseurl}}/teas/{{page.teas}}">Back to Categories</a>
+<a class="exa" href="{{site.baseurl}}/teas/{{page.teas}}">Back to Categories</a>
 
 <div class="grid">
     <div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
@@ -16,7 +16,7 @@ type: uncaffeinated
     </div>
 </div>
 
-<ul>
+<ul class="exa">
     {% for tea in site.pages %}
         {% if tea.category == 'decaffeinated' %}        
             <li>

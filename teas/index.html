@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teas
-showbanner: yes
+showbannersmall: yes
 bannertext: Categories
 meta: "Organic fair trade teas"
 ---
@@ -10,10 +10,10 @@ meta: "Organic fair trade teas"
     <p class="unit unit-s-1 unit-m-1 unit-l-1">
         Browse our teas selection to find the best one for you. We have a range of caffeinated and uncaffeinated teas to pick from!
     </p>
-    <ul>
+    <ul class="pad-bottom-large">
     {% for teas in site.pages %}    
         {% if teas.category == 'category' %}
-        <li>
+        <li class="exa">
             <a href="{{site.baseurl}}{{teas.url}}">
                 {{teas.type}}
             </a>
